@@ -13,3 +13,61 @@ ol,ul {
     width: 1248px;
     margin: 0 auto;
 }
+.header {
+    margin-top: 15px;
+    border: 1px solid red;
+    width: 100%;
+    
+}
+.header-top-text {
+    display: flex;
+    margin-left: 170px;
+gap: 5px;
+font-size: 16px;
+font-weight: 100;
+line-height: 14px;
+gap: 30px;
+}
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.header-top-kurs {
+    display: flex;
+    gap: 8px;
+}
+.header-bottom {
+     display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    gap: 31px;
+}
+.img-poisk {
+    margin-left: -70px;
+}
+.btn-tall {
+    width: 77px;
+height: 77px;
+margin-right: 32px;
+}
+.input-poisk {
+    width: 624px;
+height: 46px;
+border: 2px solid #4D5EF6;
+margin-left: 20px;
+
+}
+.input-btn {
+    width: 96px;
+height: 38px;
+margin-right: -140px;
+z-index: 100;
+border: none;
+}
+.boxes1 {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    margin-left: 45px;
+}
