@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ol,ul {
+    list-style: none;
+}
+.container{
+    width: 1248px;
+    margin: 0 auto;
+}
