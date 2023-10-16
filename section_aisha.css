@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+.section{
+    margin-left: 40px;
+}
+h1{
+    width: 244px;
+    height: 33px;
+    font-weight: 400px;
+    size: 28px;
+    padding-left: 70px;
+   
+}
+.image-section{
+
+    width: 296px;
+    height: 208px;
+   
+ 
+}
+.box{
+    display: flex;
+
+}
+.box1{
+    display: flex;
+    
+}
+.box2{
+    display: flex;
+}
+   
